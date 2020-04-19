@@ -25,7 +25,7 @@ $ mdbook serve
 
 Musisz mieć internet, by móc uruchomić przykłady; aczkolwiek całość możesz przeczytać będąc offline.
 
-## Contributing
+## Wsparcie projektu:
 
 Proszę przeczytaj [CONTRIBUTING.md] plik by dowiedzieć się więcej.
 
@@ -35,7 +35,7 @@ Proszę przeczytaj [CONTRIBUTING.md] plik by dowiedzieć się więcej.
 
 * [English](https://github.com/rust-lang-cn/rust-by-example)
 
-## License
+## Licencja
 
 Rust by Example podlega następującym licencjom:
 
