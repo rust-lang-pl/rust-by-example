@@ -11,7 +11,7 @@ Nauka Rust poprzez przykłady. (Live code editor included)
 
 Jeśli chcesz przeczytać Rust by Example online, to zajrzyj na stronę: https://doc.rust-lang.org/rust-by-example/
 
-Jeśli chcesz czytać lokalnie, [install Rust], i:
+Jeśli chcesz czytać lokalnie, [install Rust], a następnie:
 
 ```bash
 $ git clone https://github.com/rust-lang/rust-by-example
@@ -27,7 +27,7 @@ Musisz mieć internet, by móc uruchomić przykłady; aczkolwiek całość może
 
 ## Contributing
 
-Proszę przeczytak [CONTRIBUTING.md] plik by dowiedzieć się więcej.
+Proszę przeczytaj [CONTRIBUTING.md] plik by dowiedzieć się więcej.
 
 [CONTRIBUTING.md]: https://github.com/rust-lang/rust-by-example/blob/master/CONTRIBUTING.md
 
